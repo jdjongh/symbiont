@@ -116,6 +116,7 @@ body {
 
 .cover-copy {
   font-family: 'Helvetica Neue', sans-serif; }
+  font-style: italic;
   max-width: 500px;
   margin: 0 auto 3rem; }
 
