@@ -21,6 +21,13 @@ a:hover {
 .btn-default:focus {
   background-color: rgba(255, 255, 255, 0.3); }
 
+/* Custom font */
+@font-face {
+    font-family: 'SymbiontFont'; /*a name to be used later*/
+    src: url('http://domain.example/fonts/font.ttf'); /*URL to font*/
+}
+
+
 /*
  * Base structure
  */
