@@ -26,6 +26,11 @@ a:hover {
     font-family: 'SymbiontFont';
     src: url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.eot"); 
     src: url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.woff") format("woff"), url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.svg#Cocon") format("svg");
+
+    font-family: "Helvetica Neue"; 
+    src: url("//db.onlinewebfonts.com/t/513e00a92551c7f365c8d2d6cb475658.eot"); 
+    src: url("//db.onlinewebfonts.com/t/513e00a92551c7f365c8d2d6cb475658.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/513e00a92551c7f365c8d2d6cb475658.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/513e00a92551c7f365c8d2d6cb475658.woff") format("woff"), url("//db.onlinewebfonts.com/t/513e00a92551c7f365c8d2d6cb475658.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/513e00a92551c7f365c8d2d6cb475658.svg#Helvetica Neue") format("svg");
+
 }
 
 
@@ -110,6 +115,7 @@ body {
     letter-spacing: 15px; } }
 
 .cover-copy {
+  font-family: 'Helvetica Neue', sans-serif; }
   max-width: 500px;
   margin: 0 auto 3rem; }
 
