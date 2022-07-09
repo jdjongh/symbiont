@@ -23,8 +23,9 @@ a:hover {
 
 /* Custom font */
 @font-face {
-    font-family: 'SymbiontFont'; /*a name to be used later*/
-    src: url('http://domain.example/fonts/font.ttf'); /*URL to font*/
+    font-family: 'SymbiontFont';
+    src: url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.eot"); 
+    src: url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.woff") format("woff"), url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/39ae2f69993fddd81291d07bffc91e80.svg#Cocon") format("svg");
 }
 
 
@@ -40,7 +41,7 @@ body {
   background-size: cover;
   color: #fff;
   text-align: center;
-  font-family: 'Cocon+Pro', sans-serif; }
+  font-family: 'SymbiontFont', sans-serif; }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
