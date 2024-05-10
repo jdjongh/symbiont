@@ -2328,7 +2328,7 @@ input, select, textarea {
 				padding-bottom: 1px;
 			}
 
-			#navToggle {
+			/*#navToggle {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -2385,7 +2385,7 @@ input, select, textarea {
 
 					#navToggle .toggle:active {
 						opacity: 0.75;
-					}
+					}*/
 
 			/*#navPanel {
 				-moz-backface-visibility: hidden;
