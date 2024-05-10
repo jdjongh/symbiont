@@ -2160,9 +2160,9 @@ input, select, textarea {
 
 /* Medium */
 
-	#navPanel, #navToggle {
+	/*#navPanel, #navToggle {
 		display: none;
-	}
+	}*/
 
 	@media screen and (max-width: 980px) {
 
